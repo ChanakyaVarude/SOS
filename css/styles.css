@@ -294,7 +294,7 @@ h3.menu-item-tile {
 @media (min-width: 1200px)
 {
 	.container .jumbotron{
-		background: url(file:///C:/Users/Chanakya/SOS/wendy-1200.png) no-repeat;
+		background: url(https://github.com/ChanakyaVarude/SOS/blob/main/wendy-1200.png?raw=true) no-repeat;
 		height: 675px;
 		box-shadow: 0 0 50px #3F0C1F;
 		border:  2px solid #3F0C1F;
